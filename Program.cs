@@ -105,7 +105,6 @@ namespace HomeWorkAutoServes
                     validInput++;
                 }
 
-
                 if (validInput == numberValidInputs)
                 {
                     isDone = true;
